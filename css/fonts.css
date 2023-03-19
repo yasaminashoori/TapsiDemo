@@ -1,18 +1,22 @@
 @font-face {
-  font-family: "Vazir";
-  font-weight: 400;
+  font-family: "Yekan";
+  font-weight: normal;
   font-style: normal;
-  src: url("/assets/fonts/Vazir.woff") format("woff");
+  src: url("/Season9-Final-Project/assets/fonts/Yekan.woff") format("woff");
 }
 
 @font-face {
-  font-family: "Vazir";
-  font-weight: 700;
+  font-family: "Yekan";
+  font-weight: normal;
   font-style: normal;
-  src: url("/assets/fonts/Vazir-Bold.woff") format("woff");
+  src: url("/Season9-Final-Project/assets/fonts/Yekan.woff2") format("woff2");
+}
+
+html {
+  font-size: 62.5%;
 }
 
 body,
 button {
-  font-family: "Vazir";
+  font-family: "Yekan";
 }

@@ -2,14 +2,14 @@
   font-family: "Yekan";
   font-weight: normal;
   font-style: normal;
-  src: url("/Season9-Final-Project/assets/fonts/Yekan.woff") format("woff");
+  src: url("/assets/fonts/Yekan.woff") format("woff");
 }
 
 @font-face {
   font-family: "Yekan";
   font-weight: normal;
   font-style: normal;
-  src: url("/Season9-Final-Project/assets/fonts/Yekan.woff2") format("woff2");
+  src: url("/assets/fonts/Yekan.woff2") format("woff2");
 }
 
 html {

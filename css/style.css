@@ -20,6 +20,15 @@
   --color-white: #fff;
 }
 
+.copy-right {
+  padding: 2rem 3rem;
+  text-align: left;
+  color: var(--color-secondary-light);
+  background-color: #000;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
 /* Typography */
 
 body {

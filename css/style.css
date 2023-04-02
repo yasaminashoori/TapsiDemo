@@ -5,7 +5,6 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  /* list-style: none; */
 }
 
 /* Root variable */
@@ -30,7 +29,6 @@
 
 
 /* Typography */
-
 body {
   color: var(--color-body);
   font-size: 1.4rem;
@@ -241,7 +239,6 @@ h2 {
 }
 
 /* Feature */
-
 .feature {
   display: grid;
   padding: 2rem;
@@ -295,7 +292,6 @@ h2 {
 }
 
 /* Contact-us */
-
 .contact-us-size{
   margin-top: -10rem;
 }
@@ -334,7 +330,6 @@ h2 {
 }
 
 /* Icons */
-
 .icon {
   width: 24px;
   height: 24px;
@@ -427,7 +422,6 @@ h2 {
 }
 
 /* Contact-us form */
-
 .contact-us__map img {
   width: 100%;
   height: auto;
@@ -495,7 +489,6 @@ textarea {
 }
 
 /* Footer */
-
 .main-footer {
   background-color: rgb(0, 0, 0);
   color: white;
@@ -588,7 +581,6 @@ textarea {
 }
 
 /* Navbar */
-
 .main-header {
   background-color: var(--color-navbar);
 }
@@ -673,7 +665,6 @@ textarea {
 }
 
 /* toggler */
-
 .nav__toggler {
   cursor: pointer;
 }
@@ -936,7 +927,6 @@ textarea {
 }
 
 /* Block */
-
 .block {
   padding: 4rem 2rem;
 }
@@ -952,7 +942,6 @@ textarea {
 /* travell */
 
 /* travelling section */
-
 .travel__slides {
   display: flex;
   justify-content: space-between;
@@ -1035,7 +1024,6 @@ textarea {
 }
 
 /* accordion section */
-
 .accordion__header {
   display: flex;
   justify-content: space-between;
@@ -1095,7 +1083,6 @@ textarea {
 }
 
 /* avatar section */
-
 .avatar-group{
   display: flex;
   align-items: center;
@@ -1145,7 +1132,6 @@ textarea {
 
 
 /* select type section */
-
 .select-type{
   display: flex;
   justify-content: space-between;

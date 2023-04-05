@@ -398,7 +398,6 @@ h2 {
 }
 
 /* social icons */
-
 .contact-us__social .icon-container {
   /* margin-left: ; */
 }
@@ -694,7 +693,6 @@ textarea {
 }
 
 /* Hero section */
-
 .hero-section {
   position: relative;
   width: 100%;
@@ -825,7 +823,6 @@ textarea {
 }
 
 /* Services */
-
 .services__tabs {
   display: flex;
   flex-direction: row;
@@ -939,7 +936,6 @@ textarea {
   margin-top: 6rem;
 }
 
-/* travell */
 
 /* travelling section */
 .travel__slides {
@@ -1144,7 +1140,6 @@ textarea {
 
 .select-control{
   cursor: pointer;
-  /* margin-left: 2rem; */
   flex-grow: 1;
 }
 .select-type :not(:last-child){
@@ -1185,7 +1180,6 @@ textarea {
 }
 
 .select-control input[type="radio"]:checked + label::before{
-  /* border: 2px solid #fff; */
   box-shadow: 0 0 0 2px var(--color-primary);
   background-color: var(--color-primary);
 }

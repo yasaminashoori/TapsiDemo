@@ -1073,7 +1073,7 @@ textarea {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 2rem 2rem;
+  padding: 2rem;
   border-bottom: 2px solid #ececec;
   color: var(--color-primary);
 }

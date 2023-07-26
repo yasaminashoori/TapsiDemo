@@ -741,7 +741,6 @@ textarea {
 }
 
 .intro-btn {
-  border-radius: 20px;
   background-image: linear-gradient(
     51deg,
     rgba(23, 26, 60, 0.7) 5%,
@@ -832,7 +831,6 @@ textarea {
 }
 
 .services__tabs a {
-  display: block;
   text-decoration: none;
   color: #444;
   display: flex;
@@ -1025,7 +1023,7 @@ textarea {
   justify-content: space-between;
   align-items: center;
   cursor: pointer;
-  padding: 2rem 2rem;
+  padding: 2rem;
   border-bottom: 2px solid #ececec;
 }
 
